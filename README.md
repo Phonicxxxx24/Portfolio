@@ -31,8 +31,9 @@ Personal portfolio showcasing my work with Rialo, hackathon projects, and Web3/A
 
 ## Installation
 Clone repository
-git clone https://github.com/yourusername/Portfolio.git
-
+```
+https://github.com/Phonicxxxx24/Portfolio.git
+```
 Navigate to project
 ```
 cd Portfolio/my-portfolio
