@@ -1,7 +1,7 @@
 # Portfolio
 # Portfolio - Web & AI Builder for Web3
 
-![Portfolio Preview](your-screenshot-url-here.jpg)
+!https://i.postimg.cc/rskVShrH/Screenshot-2025-12-07-215308.png
 
 ## Live Demo
 
