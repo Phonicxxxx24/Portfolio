@@ -6,7 +6,7 @@
 
 ## Live Demo
 
-** https://portfolio-rialo.netlify.app/ **
+ https://portfolio-rialo.netlify.app/ 
 
 ## About
 
@@ -34,14 +34,18 @@ Clone repository
 git clone https://github.com/yourusername/Portfolio.git
 
 Navigate to project
+```
 cd Portfolio/my-portfolio
+```
 
 Install dependencies
+```
 npm install
-
+```
 Run development server
+```
 npm run dev
-
+```
 ## Deployment
 
 Deployed on Netlify with automatic builds from the main branch.
