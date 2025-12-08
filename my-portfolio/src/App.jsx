@@ -41,32 +41,32 @@ const RIALO_WORK = [
         {
           id: 1,
           link: "https://x.com/gaminggop24/status/1984857549783654509?s=20",
-          image: "https://i.postimg.cc/6qC9sbjT/Screenshot-2025-12-07-163944.png" 
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208506/Screenshot_2025-12-07_163944_zvkskd.png" 
         },
         {
           id: 2,
           link: "https://x.com/gaminggop24/status/1985793345722204572?s=20",
-          image: "https://i.postimg.cc/v8tjjd3M/02.jpg"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208610/02_o48iwy.jpg"
         },
         {
           id: 3,
           link: "https://x.com/gaminggop24/status/1987869007102521511?s=20",
-          image: "https://i.postimg.cc/g2ZHCVmR/03.jpg"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208656/03_edkvgz.jpg"
         },
         {
           id: 4,
           link: "https://x.com/gaminggop24/status/1989743737850007797?s=20",
-          image: "https://i.postimg.cc/Y2T3bDB8/Screenshot-2025-12-07-165042.png"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208697/Screenshot_2025-12-07_165042_s6yae1.png"
         },
         {
           id: 5,
           link: "https://x.com/gaminggop24/status/1990682364906004919?s=20",
-          image: "https://i.postimg.cc/8kfdJdfb/Screenshot-2025-12-07-165134.png"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208733/Screenshot_2025-12-07_165134_ew6k1o.png"
         },
         {
           id: 6,
           link: "https://x.com/gaminggop24/status/1994805911693693298?s=20",
-          image: "https://i.postimg.cc/90yqxpGW/Screenshot-2025-12-07-165215.png"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208761/Screenshot_2025-12-07_165215_sqzkqc.png"
         }
       ]
     }
@@ -89,32 +89,32 @@ const RIALO_WORK = [
         {
           id: 1,
           link: "https://medium.com/@jainharshit24072/rialo-redefining-the-layer-1-experience-with-web-native-blockchain-architecture-4d0cfe60ad87",
-          image: "https://i.postimg.cc/1RDn1vNv/Professional-Mind-Map-Business-Brainstorm.png" 
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208808/Professional_Mind_Map_Business_Brainstorm_ydk15g.png" 
         },
         {
           id: 2,
           link: "https://medium.com/@jainharshit24072/rialo-1337-a-glimpse-into-the-next-generation-of-onchain-market-infrastructure-4b253b77bbb8",
-          image: "https://i.postimg.cc/d39VkS2J/res-03.webp"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208850/res_03_rn1dgz.webp"
         },
         {
           id: 3,
           link: "https://medium.com/@jainharshit24072/solving-cryptos-invisible-tax-rialo-and-the-end-of-compound-marginalization-a15087f10261",
-          image: "https://i.postimg.cc/KzSG9yQT/res-04.webp"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208873/res_04_qqpkms.webp"
         },
         {
           id: 4,
           link: "https://medium.com/@jainharshit24072/meet-the-team-behind-rialo-from-sui-to-solving-the-oracle-problem-3898c44aea28",
-          image: "https://i.postimg.cc/mgKBDGv9/res-05.webp"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208914/res_05_kog2t5.webp"
         },
         {
           id: 5,
           link: "https://medium.com/@jainharshit24072/why-prediction-markets-break-today-the-oracle-problem-blockchains-cant-ignore-237ac239ea07",
-          image: "https://i.postimg.cc/GtM110P2/res-06.webp"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208966/res_06_oq76nw.webp"
         },
         {
           id: 6,
           link: "https://medium.com/@jainharshit24072/how-rialo-fixes-prediction-markets-native-web-event-driven-execution-and-a-world-beyond-oracles-34f84d73d1e5",
-          image: "https://i.postimg.cc/JzHCS2sN/res-07.webp"
+          image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765208996/res_07_b4fllf.webp"
         }
       ]
     }
@@ -128,7 +128,7 @@ const RIALO_WORK = [
     icon: <Layers className="w-6 h-6 text-[#010101]" />,
     link: null,
     hasDetails: true,
-    image: "https://i.postimg.cc/zBGywNfr/meme-upload.png", // Placeholder for your image
+    image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765207933/meme_upload_qenv7u.png", // Placeholder for your image
     details: {
       about: "A collection of high-impact memes and community content. Click the link below to view the full archive on Google Drive.",
       features: null,
@@ -160,7 +160,7 @@ const ACHIEVEMENTS = [
     hasDetails: true,
     // --- UPDATE IMAGE HERE ---
     // Paste your hosted image URL inside the quotes below (e.g., "https://imgur.com/...")
-    image: "https://i.postimg.cc/63JZCgvz/Screenshot-2025-12-07-170357.png", 
+    image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765209074/Screenshot_2025-12-07_170357_qeyoyg.png", 
     // -------------------------
     demoLink: "https://raiku-visualizer-seven.vercel.app/", // Main visual click link
     details: {
@@ -188,7 +188,7 @@ const ACHIEVEMENTS = [
     link: null,
     hasDetails: true,
     // --- UPDATE IMAGE HERE ---
-    image: "https://i.postimg.cc/J7KyhGPP/Screenshot-2025-12-07-170526.png", 
+    image: "https://res.cloudinary.com/duf6r8fhk/image/upload/v1765209131/Screenshot_2025-12-07_170526_nzd8hp.png", 
     // -------------------------
     demoLink: "https://oorja-mitra.vly.site/dashboard", // Main visual click link
     details: {
